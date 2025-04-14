@@ -29,7 +29,7 @@
 ##   Other
 - 🔹 [Contact Book SPA](https://github.com/MuniHao/Contact-Book-SPA) — A SPA Contact Book build with Vue.
 - 🔹 [Phone Store](https://github.com/MuniHao/Phone-Store) — A Phone Sales Web build with Vue.
-- 🔹 [Mini Social Network for Hobby Group]( https://www.figma.com/proto/AlRvmf6BYgHwb4NFQ1GdD2/HCI_Lab2_NNHao_B2110011?node-id=0-1&t=Es8mWLyuuf4qFhsh-1) — A Small-scale social network platform tailored specifically for hobby groups.
+- 🔹 [Mini Social Network for Hobby Group]( https://www.figma.com/proto/AlRvmf6BYgHwb4NFQ1GdD2/HCI_Lab2_NNHao_B2110011?node-id=0-1&t=Es8mWLyuuf4qFhsh-1) — A Small-scale social network platform tailored specifically for hobby groups by Figma.
 
 ---
 
