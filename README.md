@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20World!&fontSize=35&fontAlign=50&fontColor=FFFFFF&textPosition=top" width="100%"/>
 
-<h3 align="center">A passionate Mobile Developer from Vietnam 🇻🇳</h3>
+<h3 align="center">A passionate Mobile, .NET Developer from Vietnam 🇻🇳</h3>
 
 
 🌱 I’m currently learning **Flutter, Firebase, AI integration in mobile apps**
@@ -25,12 +25,13 @@
 - 🔹 [AI Chatbox App](https://github.com/MuniHao/ChatWithToeicAI) — A smart assistant built with Flutter & Gemini API & SQLite.
 - 🔹 [AI Chatbox App 2.0](https://github.com/MuniHao/ChatWithToeicAI-Hive-Firebase) — A smart assistant built with Flutter & Gemini API & Hive & Firebase.
 - 🔹 [E-Commerce App](https://github.com/MuniHao/E-Commerce-App) — A beautiful shopping experience on mobile build with Flutter.
+- 🔹 [Restaurant Management](https://github.com/MuniHao/RESTAURANT_MANAGEMENT) — A  Restaurant Management project using .NET Framework - C#.
 
 ##   Other
-- 🔹 [Restaurant Management](https://github.com/MuniHao/RESTAURANT_MANAGEMENT) — A  Restaurant Management project using .NET Framework - C#.
 - 🔹 [Contact Book SPA](https://github.com/MuniHao/Contact-Book-SPA) — A SPA Contact Book build with Vue.
 - 🔹 [Phone Store](https://github.com/MuniHao/Phone-Store) — A Phone Sales Web build with Vue.
 - 🔹 [Mini Social Network for Hobby Group]( https://www.figma.com/proto/AlRvmf6BYgHwb4NFQ1GdD2/HCI_Lab2_NNHao_B2110011?node-id=0-1&t=Es8mWLyuuf4qFhsh-1) — A Small-scale social network platform tailored specifically for hobby groups by Figma.
+- 🔹 [Electricity_Business_Management](https://github.com/MuniHao/Electricity_Business_Management) — A Single Page Application build with .NET Framework.
 
 ---
 
